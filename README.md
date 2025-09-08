@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahum
 - 👀 I’m interested in robotics, AI and adventure!
-- 🌱 I’m currently learning C, and tinkering with Arduinos
+- 🌱 I’m currently learning embedded programming with Arduino and ESP32
 - 💞️ I’m looking to collaborate on Arduino and microcontroller projects. 
 - 📫 How to reach me ... 
 
